@@ -1,0 +1,18 @@
+<div class="container">
+  <form>
+    <!-- Loop through tasksArray and display each task as a to-do item -->
+    <div class="todo" *ngFor="let item of tasksArray">
+      <!-- Display the task name -->
+      <p>{{item.taskName}}</p>
+
+      <!-- Button to remove the task -->
+      <button class="btn btn-danger" (click)="removeTask(item)">Remove</button>
+
+      <!-- Button to edit the task -->
+      <button class="btn btn-danger" (click)="openDialog(item)">Edit</button>
+    </div>
+  </form>
+
+  <!-- Button to open the dialog for creating a new task -->
+  <button (click)="openDialog()" class="btn btn-success custom-width">Create</button>
+</div>

@@ -1,0 +1,39 @@
+/* Styles for text inputs and select elements */
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Styles for general input elements */
+input {
+  width: 100%;
+  background-color: #FFFFFF;
+  color: rgb(0, 0, 0);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Styles for input elements on hover */
+input:hover {
+  background-color: #FDFDFD;
+}
+
+/* Styles for a generic container */
+div {
+  border-radius: 5px;
+  background-color: #F2F2F2;
+}
+
+/* Styles for a text area */
+.textArea {
+  width: 100%;
+  min-height: 150px;
+}

@@ -1,0 +1,30 @@
+<!-- Dialog title that changes based on whether it's for creating or editing a task -->
+<h2 mat-dialog-title>{{ showUpdate ? 'Create New Task' : 'Edit Task' }}</h2>
+
+<div mat-dialog-content>
+  <!-- Form for task details -->
+  <form [formGroup]="addTaskForm">
+    <!-- Input field for task name -->
+    <div>
+      <label for="taskName">Task Name:</label>
+      <input type="text" id="taskName" formControlName="taskName" placeholder="Enter task name...">
+    </div>
+    
+    <!-- Input field for due date -->
+    <div>
+      <label for="dueDate">Due Date:</label>
+      <input type="date" id="dueDate" formControlName="dueDate">
+    </div>
+    
+    <!-- Textarea for task description -->
+    <div>
+      <label for="description">Description:</label>
+      <textarea id="description" formControlName="description" class="textArea" placeholder="Enter task description..."></textarea>
+    </div>
+  </form>
+
+  <!-- Buttons for adding or updating the task -->
+  <button class="btn btn-success" type="button" (click)="addOrUpdateTask()">
+    {{ showUpdate ? 'Update Task' : 'Add Task' }}
+  </button>
+</div>

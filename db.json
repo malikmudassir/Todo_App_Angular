@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "",
+      "emial": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "",
+      "lastName": "",
+      "emial": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "firstName": "",
+      "lastName": "",
+      "emial": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstName": "",
+      "lastName": "",
+      "emial": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "12",
+      "firstName": "asfas",
+      "lastName": "adfafa",
+      "emial": "afdag",
+      "mobile": "adgadga",
+      "salary": "adga"
+    },
+    {
+      "id": "T0jndPZ",
+      "firstName": "",
+      "lastName": "",
+      "emial": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "hgk",
+      "firstName": "ghfk",
+      "lastName": "fhkfg",
+      "emial": "fhkfgh",
+      "mobile": "fghkf",
+      "salary": "fhgkf"
+    },
+    {
+      "id": "gyi",
+      "firstName": "yiufdyri",
+      "lastName": "yuiryi",
+      "email": "yityitqyiy",
+      "mobile": "iyiyrityi`yiyi",
+      "salary": "yiyite"
+    },
+    {
+      "id": "fhsghfshs",
+      "firstname": "hshshs",
+      "lastName": "hshf",
+      "email": "shhshs",
+      "mobile": "sfhsf",
+      "salary": "hsfhsf"
+    },
+    {
+      "id": "adfsha",
+      "firstname": "hsafdhj",
+      "lastName": "ljoi",
+      "email": "jqiohgoqhoghoi",
+      "mobile": "hoifdu",
+      "salary": "oquoudg"
+    },
+    {
+      "id": "fdhsh",
+      "firstname": "sdfhsdfh",
+      "lastName": "hsfds",
+      "email": "sfdhsd",
+      "mobile": "sdfhsh",
+      "salary": "fshs"
+    },
+    {
+      "id": "yjnghjlqjljh",
+      "firstname": "ljhblj",
+      "lastName": "ljhlgdjl",
+      "email": "jlhjl",
+      "mobile": "jlhj",
+      "salary": "lfgjlh"
+    },
+    {
+      "id": "vhjfgqlj",
+      "firstname": "j",
+      "lastName": "ljglsdjgl",
+      "email": "jlgj",
+      "mobile": "ljl",
+      "salary": "jljg"
+    },
+    {
+      "id": "sgfs",
+      "firstname": "sdgfs",
+      "lastName": "fdsgsd",
+      "email": "fsdgs",
+      "mobile": "sfdghs",
+      "salary": "sfdg"
+    },
+    {
+      "id": "EJ6QuHd",
+      "firstname": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "oVgJHdp",
+      "firstname": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "sdaf",
+      "firstname": "asdga",
+      "lastName": "agag",
+      "email": "agag",
+      "mobile": "adga",
+      "salary": "adsg"
+    },
+    {
+      "id": "dfgsdh",
+      "firstname": "gfdh",
+      "lastName": "hfkbdh",
+      "email": "khgskfdhk",
+      "mobile": "ghkfsdhk",
+      "salary": "HKSFD"
+    },
+    {
+      "id": "123",
+      "firstname": "jdsfgjh",
+      "lastName": "gfdjhghj",
+      "email": "jsjghjh",
+      "mobile": "jghfjdgh",
+      "salary": "hkfdhg"
+    },
+    {
+      "id": "8_ilGi-",
+      "firstname": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "XzSbafI",
+      "firstname": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": "DL_zG6L",
+      "firstname": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": "zvx",
+      "firstname": "czbz",
+      "lastName": "bzcb",
+      "email": "zcbcbz",
+      "mobile": "zcbz",
+      "salary": "zcbz"
+    },
+    {
+      "id": "O6h0_9h",
+      "firstname": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

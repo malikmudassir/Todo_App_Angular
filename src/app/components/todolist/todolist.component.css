@@ -1,0 +1,27 @@
+/* Styles for the form element */
+form {
+  width: 70%;
+}
+
+/* Styles for the container element */
+.container {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styles for a custom width element */
+.custom-width {
+  width: 100px;
+}
+
+/* Styles for individual to-do items */
+.todo {
+  background-color: rgb(255, 143, 16);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; /* Adjust this property as needed */
+}

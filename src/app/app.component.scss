@@ -1,0 +1,86 @@
+
+.circle-one{
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+    border-radius: 5000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: green;
+}
+.circle-two{
+    height: 400px;
+    width: 400px;
+    border: 5px solid black;
+    border-radius:5000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: blue;
+
+}
+.circle-three{
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius:5000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: yellow;
+}
+
+
+.circle-four{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 5000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: purple;
+}
+.circle-five{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius:5000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: lightsalmon;
+}
+.circle-six{
+    height: 50px;
+    width: 50px;
+    border: 5px solid black;
+    border-radius:5000px;
+    background-color: red;
+    
+}
+.blue1{
+    background-color: lightblue;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+   ;
+}
+.blue2{
+    background-color: lightblue;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+    
+}
+.activebg{
+    background-color: white;
+}
+p{
+    font-size: 16px;
+    font-weight:600 ;
+
+}
